@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "What is your name"
+echo "What is your namesdsdadsad asdasdasda dasdasd asdasd adasda""
 read name
 echo "Hi $name, please enter the password?"
 read password
@@ -42,4 +42,3 @@ if [[ $password == legos ]];then
 else
 	 echo "Access denied. Please run the script again."
 fi
-
