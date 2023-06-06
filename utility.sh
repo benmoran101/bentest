@@ -2,7 +2,7 @@
 
 echo "What is your namesdsdadsad asdasdasda dasdasd asdasd adasda""
 read name
-echo "Hi $name, please enter the password?"
+echo "Hi $name,ad ada dadaf a please enter the password?dasdasdad ad afsfg szgzsg sdg zsgsg zs"
 read password
 if [[ $password == legos ]];then
 	echo "What can I do for you today?"
